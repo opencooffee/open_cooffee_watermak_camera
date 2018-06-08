@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cámara Marca de Agua</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="agree">De acuerdo</string>
+    <string name="camera_runtime_permission_text">Watermark Camera quiere acceder a la cámara.\n\nSigue el siguiente procedimiento:\n\nPermisos &#45;&#62; Cámara</string>
+    <string name="storage_runtime_permission_text">Watermark Camera quiere acceder al almacenamiento del dispositivo.\n\nSigue el siguiente procedimiento:\n\nPermisos &#45;&#62; Almacenamiento</string>
+    <string name="processing_image">Procesando imagen</string>
+    <string name="an_error_has_ocurred">Ha ocurrido un error</string>
+    <string name="error_getting_the_selected_image">Error obteniendo la imagen seleccionada</string>
+    <string name="saving_image">Guardando imagen</string>
+    <string name="saved_image">La imagen se ha guardado satisfactóriamente</string>
+    <string name="error_saving_image">Ha ocurrido un error intentando guardar la imagen</string>
+    <string name="error_creating_watermark_image">Ha ocurrido un error intentando crear la imagen con marca de agua</string>
+    <string name="image_already_saved">La imagen ya ha sido guardada</string>
+    <string name="there_is_no_watermark_as_favorite">No hay ninguna marca de agua como favorita</string>
+    <string name="there_is_currently_a_watermark_inserted">Actualmente hay una marca de agua insertada</string>
+</resources>
